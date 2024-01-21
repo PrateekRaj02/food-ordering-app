@@ -1,0 +1,14 @@
+#Parcel
+-Dev Build
+-Local Server
+-HMR-Hot Module Replacement(reloading)
+-File Watching Algorithm
+-Image Optimization
+-Minification
+-Bundling
+-Compress
+-Consistent Hashing
+-Code Splitting
+-Diffrential Bundling(to support older browser)
+-Tree Shaking(will remove unused code)
+-Different dev and prod bundles 

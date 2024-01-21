@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*
+.header {
+  border: 1px solid #0f0f0f;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  height: 100px;
+}
+.nav-items {
+  /* display: flex;
+  justify-content: space-between; 
+  font-size: 24px;
+}
+
+.nav-items > ul {
+  list-style-type: none;
+  display: flex;
+}
+.nav-items > ul > li {
+  padding: 10px;
+}
+.body {
+  border: 1px solid #0f0f0f;
+}
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.searchbar {
+  text-align: center;
+  margin: 10px;
+}
+.search-btn {
+  margin-left: 10px;
+}
+.search-btn:hover {
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: aqua;
+}
+.res-card{
+    width: 200px;
+
+}
+.res-card:hover{
+    border: 1px solid #6e6565;
+}
+.res-logo{
+    width: 100%;
+}
+.shimmer-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.shimmer-card{
+  height: 400px;
+  width: 200px;
+  background-color: #807a7a;
+  
+}
+.res-img-menu{
+  width: 200px;
+}
+.menu-img{
+  width: 100px;
+}
+.menu-list{
+  display: flex;
+  gap: 20px;
+}
+.user-card{
+  padding: 20px;
+  border: 1px solid black;
+}
+*/
